@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gurkenkrieger
+- 👋 Hi, I’m La pup
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - ✨ I love if-loops and wlan-kabels
