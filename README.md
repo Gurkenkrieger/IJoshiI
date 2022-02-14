@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IJoshiI
+- 👋 Hi, I’m @Gurkenkrieger
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - ✨ I love if-loops and wlan-kabels
